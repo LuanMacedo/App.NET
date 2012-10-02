@@ -1,0 +1,10 @@
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\bin\Debug\Repositorio.exe
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\bin\Debug\Repositorio.xml
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.Form1.resources
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.Resources.resources
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.vbproj.GenerateResource.Cache
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.exe
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.xml
+C:\Users\Lucho\Documents\Visual Studio 2008\Projects\Repositorio\Repositorio\obj\Debug\Repositorio.pdb
